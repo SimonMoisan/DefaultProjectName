@@ -1,0 +1,14 @@
+{
+    "filePaths": [
+        "UnityPackages/UI/Better UI.unitypackage",
+        "UnityPackages/VFXs/Highlight Plus - All in One Outline Selection Effects.unitypackage",
+        "UnityPackages/Utilities/Component Names.unitypackage",
+        "UnityPackages/Materials/Gridbox Prototype Materials.unitypackage"
+    ],
+    "subFolders": [
+        "UI",
+        "VFXs",
+        "Utilities",
+        "Materials"
+    ]
+}
